@@ -80,23 +80,6 @@ Provide a natural language text prompt in the 'test_query' variable to get simil
 
 ---
 
-
-## 🧩 Dependencies
-
-torch
-torchvision
-open-clip-torch 
-faiss-cpu
-numpy
-Pillow
-tqdm
-opencv-python
-matplotlib
-ultralytics
-google-genai
-python-dotenv
----
-
 ## 📄 License
 
 This project is open source — feel free to use and modify it.
