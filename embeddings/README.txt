@@ -1,0 +1,1 @@
+You image embeddings will be stored in this folder
